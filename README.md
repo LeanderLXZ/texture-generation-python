@@ -7,6 +7,7 @@ Texture generation and style transfor using several methods:
 The details of the experiments and results are in the docs/report.pdf file.
 
 ## Report
+***
 ![](imgs/report-1.jpg)
 ![](imgs/report-2.jpg)
 ![](imgs/report-3.jpg)
